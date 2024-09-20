@@ -1,2 +1,2 @@
-const ="Herbenis";
-console.log (`hola,{nombre}!;`)
+const nombre = "Herbenis Solanger Hernandez Diaz";
+console.log (`Hola, ${nombre}!`);
